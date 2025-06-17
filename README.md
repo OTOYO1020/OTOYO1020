@@ -1,9 +1,15 @@
-# Web Developer in Japan
-### Feel free to contact me anytime!👍
-
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTOYO1020&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=OTOYO1020&theme=onedark&show_icons=ture" />
   
+  ![kurimatsu](https://github.com/user-attachments/assets/1a666fc8-a211-43b3-b53a-5886e6d5c441)
+  ![kurimatsu](https://github.com/user-attachments/assets/1a666fc8-a211-43b3-b53a-5886e6d5c441)
+  ![kurimatsu](https://github.com/user-attachments/assets/1a666fc8-a211-43b3-b53a-5886e6d5c441)
+  ![kurimatsu](https://github.com/user-attachments/assets/1a666fc8-a211-43b3-b53a-5886e6d5c441)
+  ![kurimatsu](https://github.com/user-attachments/assets/1a666fc8-a211-43b3-b53a-5886e6d5c441)
+  ![kurimatsu](https://github.com/user-attachments/assets/1a666fc8-a211-43b3-b53a-5886e6d5c441)
+  ![kurimatsu](https://github.com/user-attachments/assets/1a666fc8-a211-43b3-b53a-5886e6d5c441)
+  ![kurimatsu](https://github.com/user-attachments/assets/1a666fc8-a211-43b3-b53a-5886e6d5c441)
+  ![kurimatsu](https://github.com/user-attachments/assets/1a666fc8-a211-43b3-b53a-5886e6d5c441)
+  ![kurimatsu](https://github.com/user-attachments/assets/1a666fc8-a211-43b3-b53a-5886e6d5c441)
+  ![kurimatsu](https://github.com/user-attachments/assets/1a666fc8-a211-43b3-b53a-5886e6d5c441)
   ![kurimatsu](https://github.com/user-attachments/assets/1a666fc8-a211-43b3-b53a-5886e6d5c441)
 </p>
